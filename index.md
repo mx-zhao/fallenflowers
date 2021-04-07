@@ -1,6 +1,6 @@
 ## Fallen Flowers
 
-![image](fullscr.png)
+![image](https://github.com/mx-zhao/fallenflowers/blob/b91df98045d4292d1d0be27d06591d4d9600d6a6/img/fullscr.png)
 
 The piece has two original writing sources:
 
