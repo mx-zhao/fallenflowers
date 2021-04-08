@@ -1,6 +1,6 @@
 ## Fallen Flowers
 
-![image](https://github.com/mx-zhao/fallenflowers/blob/1258967b8984002b682715421daff4dcf5635b03/fullscr.png)
+![image](https://github.com/mx-zhao/fallenflowers/blob/1258967b8984002b682715421daff4dcf5635b03/ff01.png)
 
 #### By Mengxuan ZHAO
 #### *2021.03*
@@ -11,10 +11,11 @@ The piece has two original writing sources:
 
 The two works are from two different perspectives of male and female writers. In both of the works, there’s a huge number of Chinese character “花”, which stands for “flower”. Both of the sources focus on the same topic, which is to compared the aging of women to fallen flowers which are no longer attractive.
 
-### View the Artwork [***Fallen Flowers***](https://mx-zhao.github.io/fallenflower/)
+### View the Artwork [*** <span style="font-family:Papyrus; font-size:4em;"> Fallen Flowers </span> ***](https://mx-zhao.github.io/fallenflower/)
 
 
-*About the artist*
+
+## *About the artist*
 
 #### Mengxuan ZHAO
 Year 4 student of City University of Hong Kong, School of Creative Media.
