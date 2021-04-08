@@ -1,6 +1,6 @@
 ## Fallen Flowers
 
-![image](https://github.com/mx-zhao/fallenflowers/blob/73e3d1c50150f73bce98a0f5edb219b61d4deb61/ff01.png)
+![image](ff01.png)
 
 ##### By Mengxuan ZHAO
 ##### *2021.03*
