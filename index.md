@@ -1,6 +1,6 @@
 ## Fallen Flowers
 
-![image](ff01.png)
+![image](fullscr.png)
 
 ##### By Mengxuan ZHAO
 ##### *2021.03*
@@ -22,5 +22,3 @@ The two works are from two different perspectives of male and female writers. In
 
 #### Mengxuan ZHAO
 Year 4 student of City University of Hong Kong, School of Creative Media.
-
-img
