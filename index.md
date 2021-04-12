@@ -39,5 +39,7 @@ Year 4 student of City University of Hong Kong, School of Creative Media. Major 
 
 ![image](ff02.png)
 
+*Special thanks to professor Daniel Howe for instructions during the past semester, as well as my friends and classmates who kindly offered their suggestions.*
+
 
 
